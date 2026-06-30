@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+.container{
+    width: 350px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.title{
+    margin-top: 0;
+}
+
+.content{
+    font-weight: normal;
+}
